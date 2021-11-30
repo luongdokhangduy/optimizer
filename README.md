@@ -10,7 +10,7 @@ Optimizer is recommended after a fresh, clean installation of Windows to achieve
 
 Depending on your version of Windows, Optimizer will also allow you to perform some specific tweaks.
 <p align="center">
-	<a href="https://github.com/hellzerg/optimizer/releases/download/10.7/Optimizer-10.7.exe" target="_blank">
+	<a href="https://github.com/luongdokhangduy/optimizer_vietnamese/releases/download/10.7/Optimizer1.07(EN).exe" target="_blank">
 		<img src="download-button.png">
 		<br>
 		<img src="flags.png">
@@ -38,23 +38,23 @@ Depending on your version of Windows, Optimizer will also allow you to perform s
 * Silent run support using a configuration file
 
 ## Downloads: ##
-https://github.com/hellzerg/optimizer/releases
+https://github.com/luongdokhangduy/optimizer_vietnamese/releases
 
 ## Screenshots: ##
-https://github.com/hellzerg/optimizer/blob/master/IMAGES.md
+https://github.com/luongdokhangduy/optimizer_vietnamese/blob/master/IMAGES.md
 
 ## How to effectively disable Defender in Windows 10 1903 and later ##
 #### (https://docs.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/security-malware-windows-defender-disableantispyware) ####
 Restart in SAFE-MODE and run Optimizer with "/disabledefender" switch
 
 ## Silent configuration files: ##
-https://github.com/hellzerg/optimizer/blob/master/CONFS.md
+https://github.com/luongdokhangduy/optimizer_vietnamese/blob/master/CONFS.md
 
 ## Changelog: ##
-https://github.com/hellzerg/optimizer/blob/master/CHANGELOG.md
+https://github.com/luongdokhangduy/optimizer_vietnamese/blob/master/CHANGELOG.md
 
 ## Early developmental images: ##
-https://github.com/hellzerg/optimizer/blob/master/LEGACY.md
+https://github.com/luongdokhangduy/optimizer_vietnamese/blob/master/LEGACY.md
 
 ## Compatibility: ##
 
