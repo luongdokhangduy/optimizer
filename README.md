@@ -92,3 +92,5 @@ https://github.com/luongdokhangduy/optimizer_vietnamese/blob/master/FEED.md
    * Patent use
    * Private use
  * (based from  GPL-3.0 License)
+## For issue ##
+ * Please report issue to this project : [here](https://github.com/hellzerg/optimizer/issues)
