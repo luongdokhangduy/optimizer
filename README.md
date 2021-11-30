@@ -91,3 +91,4 @@ This project is for :
    * Distribution
    * Patent use
    * Private use
+ * (based from  GPL-3.0 License)
