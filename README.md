@@ -10,7 +10,7 @@ Optimizer is recommended after a fresh, clean installation of Windows to achieve
 
 Depending on your version of Windows, Optimizer will also allow you to perform some specific tweaks.
 <p align="center">
-	<a href="https://github.com/luongdokhangduy/optimizer_vietnamese/releases/download/10.7/Optimizer1.07(EN).exe" target="_blank">
+	<a href="https://github.com/luongdokhangduy/optimizer_vietnamese/releases/download/10.7/Optimizer1.07.EN.exe" target="_blank">
 		<img src="download-button.png">
 		<br>
 		<img src="flags.png">
