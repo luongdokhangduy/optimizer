@@ -68,13 +68,13 @@ https://github.com/luongdokhangduy/optimizer_vietnamese/blob/master/LEGACY.md
 
 ## Thanks to: ##
 * aplenaki for Hellenic translation
-* https://github.com/mrkaban - mrkaban for Russian translation
-* https://github.com/theflamehd - theflamehd for German translation
-* https://github.com/Kheasyque - Kheasyque for Turkish translation
-* https://github.com/danielcshn - danielcshn for Spanish translation
-* https://github.com/cassiompf - Cassio for Portuguese translation
-* https://github.com/RAFF47 - RAFF for French translation
-* https://github.com/Ziocash - Ziocash for Italian translation
+* [here](https://github.com/mrkaban) - mrkaban for Russian translation
+* [here](https://github.com/theflamehd) - theflamehd for German translation
+* [here](https://github.com/Kheasyque) - Kheasyque for Turkish translation
+* [here](https://github.com/danielcshn) - danielcshn for Spanish translation
+* [here](https://github.com/cassiompf) - Cassio for Portuguese translation
+* [here](https://github.com/RAFF47) - RAFF for French translation
+* [here](https://github.com/Ziocash) - Ziocash for Italian translation
 
 ## How to include an app in Common Apps - Pull Request
 [here](https://github.com/luongdokhangduy/optimizer_vietnamese/blob/master/FEED.md)
