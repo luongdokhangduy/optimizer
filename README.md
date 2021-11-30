@@ -77,7 +77,7 @@ https://github.com/hellzerg/optimizer/blob/master/LEGACY.md
 * https://github.com/Ziocash - Ziocash for Italian translation
 
 ## How to include an app in Common Apps - Pull Request
-https://github.com/hellzerg/optimizer/blob/master/FEED.md
+https://github.com/luongdokhangduy/optimizer_vietnamese/blob/master/FEED.md
 
 ## Details: ##
 
